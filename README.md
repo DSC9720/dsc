@@ -1,0 +1,2 @@
+# dsc
+My first 🥇 git
